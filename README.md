@@ -2,6 +2,7 @@
 - To run use npm
 - - http-server -p (port of choice)
 ![ScreenShot](/screenshots/index.png)
+
 ## Per Request
 1.	Gene table must contain the following columns
 a.	Alteration
@@ -18,10 +19,9 @@ as well.
 
 2.	Gene breakdown feature should have a bar chart that displays a count of data elements broken down by consequence[term].
 
-
 ## Further Features:
-- The columns displayed are currently hard coded, but can be dynically loaded and set as hidden or visible as desired- - Display thumbnail image associated with each article (Too nested to understand best way to implement'
-- Paging of large result sets are paged and cabn be changed by user to view more options
+- The columns displayed are currently hard coded, but can be loaded  on  the fly and set as hidden or visible as desired
+- Paging of large result sets are paged and can be changed by user to view more options
 - You can use the included search box to search the text of the data table and filter
 - sort through each table column
 ![ScreenShot](/screenshots/filtered.png)
