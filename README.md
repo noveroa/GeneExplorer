@@ -25,4 +25,4 @@ as well.
 
 
 
-.. image:: /screenshots/search.png?raw=true
+![ScreenShot](/screenshots/search.png)
