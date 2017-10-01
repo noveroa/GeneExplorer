@@ -22,7 +22,3 @@ as well.
 - Paging of large result sets are paged and cabn be changed by user to view more options
 - You can use the included search box to search the text of the data table and filter
 - sort through each table column
-
-
-
-![ScreenShot](/screenshots/search.png)
